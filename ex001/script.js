@@ -1,5 +1,3 @@
-/*  */
-
 setTimeout(function() {
 
     document.querySelector('div.loader').style.animation = '500ms loadingout'
